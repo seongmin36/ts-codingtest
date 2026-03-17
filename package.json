@@ -1,0 +1,24 @@
+{
+  "name": "ts-codingtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seongmin36/ts-codingtest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/seongmin36/ts-codingtest/issues"
+  },
+  "homepage": "https://github.com/seongmin36/ts-codingtest#readme",
+  "devDependencies": {
+    "@types/node": "^25.5.0"
+  }
+}
